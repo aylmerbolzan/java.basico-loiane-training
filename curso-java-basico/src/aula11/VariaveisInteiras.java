@@ -16,6 +16,13 @@ public class VariaveisInteiras {
         System.out.println("Valor variável idade03 = " + idade03);
         System.out.println("Valor variável idade04 = " + idade04);
 
+        /* Outras opções de valores para int */
+
+        int decVal = 26;
+        int hexVal = 0x1a;
+        int octVal = 032;
+        int binVal = 0b11010; // Somente a partir do JDK 7
+
     }
 }
 
